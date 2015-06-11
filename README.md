@@ -8,12 +8,6 @@ A complete sample project for Front-End developers teaching the basics of REST a
 
 **Note: If you want to run this sample code, you will need to do an NPM Install, as the node_modules directory has been removed from the repo.**
 
-
-## Author
-
-Christopher Buecheler is a front-end developer for a small San Francisco startup. Previously he's worked for companies like GameSpy, OkCupid, Crispy Gamer, and Comcast. You can visit him at [his website](http://cwbuecheler.com).
-
-
 ## Contents
 
 * /public - static directories suchs as /images
