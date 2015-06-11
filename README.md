@@ -2,10 +2,6 @@
 
 A complete sample project for Front-End developers teaching the basics of REST and using them to build an easy, fast, single-page web app.
 
-## Quickstart
-
-[Visit the tutorial online](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/), follow along with it, write your own code, compare it to this working sample code.
-
 **Note: If you want to run this sample code, you will need to do an NPM Install, as the node_modules directory has been removed from the repo.**
 
 ## Contents
